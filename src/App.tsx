@@ -3,7 +3,7 @@ import {
     Box, Button,
     Container,
     createTheme,
-    CssBaseline, Dialog, DialogActions, DialogContent,  
+    CssBaseline, Dialog, DialogActions, DialogContent, DialogTitle,
     Grid, InputAdornment,
     TextField,
     ThemeProvider,
